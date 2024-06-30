@@ -14,7 +14,7 @@ Clone the repository to your local machine using:
 
 bash
 Copy code
-git clone https://github.com/yourusername/CipherWithRandom.git
+git clone https://github.com/anshuman018/CipherWithRandom.git
 Navigate to the repository directory:
 
 bash
